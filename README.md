@@ -7,18 +7,17 @@ Things you may want to cover:
 
 * Ruby version
 
-* System dependencies
+2.4.4
 
 * Configuration
 
+ `bundle install`
+ `rails db:migrate && rails db:seed`
+ 
 * Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
+`rails db:create`
 
 * Deployment instructions
 
-* ...
+N/A run locally. 
